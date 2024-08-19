@@ -1,9 +1,5 @@
 Hello, my name is **Josep Oriol Carné**, and I'm a Software Engineer with extensive experience in the FinTech and banking sectors. I'm deeply passionate about algorithmic trading and machine learning.
 
-I share my insights on genetic programming, software development and randomness in the blog:
-
-https://www.codigomutante.com
-
 ## Technical Skills and Philosophies
 
 ### Programming Languages
@@ -15,14 +11,13 @@ https://www.codigomutante.com
 
 - **Frameworks**: Proficient in utilizing Flask, Django, and FastAPI for Python; Spring Boot for Java; and not forgetting the versatile PHP, to develop applications that not only stand the test of time but also scale efficiently across diverse environments.
 - **Machine Learning**: Deeply engrossed in the world of machine learning, employing libraries like TensorFlow and PyTorch alongside Python to unlock predictive insights.
-- **Database Proficiency**: 
+- **Database Proficiency**:
+	- **Oracle** for secure, enterprise-level data management,
 	- **PostgreSQL** for comprehensive query capabilities and scalability,
-	- **ChromaDB** for applications related to AI and vector databases
-	- **Oracle** for secure, enterprise-level data management, and
+	- **ChromaDB** for applications related to AI and vector databases, and	
 	- **DB2**, integrated with COBOL, to extend the legacy systems' vitality for another 60 years
 
 ## Staying Informed and Entertained
-
 
 - 🛠 **Productivity Tools Enthusiast**: Exploring productivity tools is one of my favorite hobby that ironically consumes more time than it saves. It's a paradox I live with, in pursuit of the ultimate workflow.
 - ☕ **Coffee Connoisseur**: My day is fuelled by coffee meticulously reheated in the microwave and slightly overcooked.
